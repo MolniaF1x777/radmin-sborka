@@ -2,7 +2,7 @@
 
 # 🚀 Сборка для игры через Radmin VPN
 
-🟢 **Статус:** Работает | 🌍 **Сайт:** [radminsborka.ru](https://radminsborka.ru) | 🎁 **Лицензия:** Бесплатная 
+🟢 **Статус:** Работает | 🌍 **Сайт:** [radminsborka.ru](https://radminsborka.ru) | 🎁 **Лицензия:** Бесплатная |  **Telegram:** [@RadminSborka](t.me/radminsborka)
 
 ---
 
@@ -33,7 +33,6 @@
 
 ### Поделиться проектом
 
-* [Поделиться в Telegram](https://t.me/radminsborka)
-* [Наш официальный сайт](https://radminsborka.ru)
+* [Наш канал в Telegram](https://t.me/radminsborka)
 
 ###### Теги: #radmin-sborka, #radminsborka, #radmin-sbork, #sborka, #radmin, #minecraft
