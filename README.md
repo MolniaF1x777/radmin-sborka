@@ -1,6 +1,11 @@
+
+
 # 🚀 Сборка для игры через Radmin VPN
 
-![Website](https://shields.io) ![Status](https://shields.io) ![License](https://shields.io)
+🟢 **Статус:** Работает (Online) | 🌍 **Сайт:** [radminsborka.ru](https://radminsborka.ru) | 🎁 **Лицензия:** Бесплатная (Free)
+
+---
+
 
 
 Всем привет. Это готовая сборка для удобной игры и настройки сети через Radmin VPN. Всё уже оптимизировано, батники чистые и проверенные, компьютер ругаться не будет.
