@@ -1,10 +1,7 @@
 # 🚀 Сборка для игры через Radmin VPN
 
-<p align="center">
-  <img src="https://shields.io" alt="Website">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="License">
-</p>
+![Website](https://shields.io) ![Status](https://shields.io) ![License](https://shields.io)
+
 
 Всем привет. Это готовая сборка для удобной игры и настройки сети через Radmin VPN. Всё уже оптимизировано, батники чистые и проверенные, компьютер ругаться не будет.
 
