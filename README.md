@@ -31,8 +31,8 @@
 
 ---
 
-### Поделиться проектом
 
-* [Наш канал в Telegram](https://t.me/radminsborka)
+
+
 
 ###### Теги: #radmin-sborka, #radminsborka, #radmin-sbork, #sborka, #radmin, #minecraft
