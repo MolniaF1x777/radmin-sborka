@@ -2,7 +2,7 @@
 
 # 🚀 Сборка для игры через Radmin VPN
 
-🟢 **Статус:** Работает | 🌍 **Сайт:** [radminsborka.ru](https://radminsborka.ru) | 📄 **Лицензия:** [MIT (Защищено авторским правом)](https://github.com/Micastar22f/radmin-sborka/blob/main/LICENSE) | ✈️ **Telegram:** [@RadminSborka](https://t.me/RadminSborka)
+🔴 **Статус:** Не работает | 🌍 **Сайт:** [radminsborka.ru](https://radminsborka.ru) | 📄 **Лицензия:** [MIT (Защищено авторским правом)](https://github.com/Micastar22f/radmin-sborka/blob/main/LICENSE) | ✈️ **Telegram:** [@RadminSborka](https://t.me/RadminSborka)
 
 
 
